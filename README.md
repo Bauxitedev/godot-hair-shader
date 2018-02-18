@@ -1,4 +1,6 @@
 # Godot hair shader
 My attempt at a hair shader. Probably too slow to use in practice, but it looks interesting at least.
 
-Will post some pictures and videos soon.
+![Hair](https://raw.githubusercontent.com/Bauxitedev/godot-hair-shader/master/example/hair.gif)
+
+Will post a video soon.
